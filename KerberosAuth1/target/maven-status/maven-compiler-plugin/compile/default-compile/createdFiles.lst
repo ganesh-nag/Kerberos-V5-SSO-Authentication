@@ -1,0 +1,6 @@
+com\example\KerberosAuth\KerberosAuthApplication1.class
+com\example\KerberosAuth\DummyUserDetailsService.class
+com\example\KerberosAuth\GlobalSecurityConfig.class
+com\example\KerberosAuth\WebSecurityConfig.class
+com\example\KerberosAuth\KerberosController.class
+com\example\KerberosAuth\SpnegoEntry.class
